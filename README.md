@@ -1,9 +1,13 @@
 # Jquery-Bootstrap-collapsible-table
 A bootstrap JQuery plugin that helps to manage number of table columns visible in mobile divices. 
+<br/>
 Usage : 
+<br/>
       $('#table_id').tableCollpase([<index of column that should visble in default>]);
+      <br/>
       eg:
-      <table class="table" id="myTable">
+      <br/>
+      '<table class="table" id="myTable">
                 <thead>
                     <tr>
                         <th>Firstname</th>
@@ -28,7 +32,7 @@ Usage :
                         <td>july@example.com</td>
                     </tr>
                 </tbody>
-    </table>
+    </table>'
       
     <script>
     $('#myTable').tableCollpase([1, 2]);
