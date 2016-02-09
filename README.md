@@ -7,7 +7,7 @@ Usage :
       <br/>
       eg:
       <br/>
-      '<table class="table" id="myTable">
+      <table class="table" id="myTable">
                 <thead>
                     <tr>
                         <th>Firstname</th>
@@ -32,7 +32,7 @@ Usage :
                         <td>july@example.com</td>
                     </tr>
                 </tbody>
-    </table>'
+    </table>
       
     <script>
     $('#myTable').tableCollpase([1, 2]);
